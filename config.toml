@@ -1,10 +1,10 @@
 baseURL = "https://yuedock.render.com"
 languageCode = "zh-cn"
 title = "乐雁坞"
-theme = "ezhil"
+theme = "exhil"
 paginate = 5
 
-copyright = "Copyright © 2021 Yuedock."
+copyright = "Copyright © 2021 Yuedock"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
