@@ -10,9 +10,12 @@ type: "page"
 
 文科生一枚，不但爱好音乐、阅读、美术...
 
-**更爱 Computer ! qwq**
+更爱 Computer！（瞎捣鼓罢了）
 
-Connect Me:
+从 2015 年担任班级电教委员至今
+
+
+**Connect Me:**
 
 E-mail:yuedock@hotmail.com
 
