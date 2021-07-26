@@ -16,43 +16,43 @@ disqusShortname = "ezhil-demo"
 summaryLength = 20
 
 [params]
-	subtitle = "永远不要依照过去计算未来"
+	subtitle = "永远不要依照过去计算未来！"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
 
 [[menu.main]]
-name = "起始页"
+name = "首页"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "归档录"
+name = "归档"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "标签云"
+name = "标签"
 url = "/tags"
 weight = 3
 
 [[menu.main]]
-name = "关于我"
+name = "关于"
 url = "/about"
 weight = 4
 
 [[menu.main]]
-name = "友人帐"
+name = "邻居"
 url = "/links"
 weight = 5
 
 [[params.social]]
-name = "我的仓库"
+name = "仓库"
 icon = "github"
 url = "https://github.com/yuedock"
 
 [[params.social]]
-name = "订阅本站"
+name = "订阅"
 icon = "rss"
 url = "/index.xml"
 
