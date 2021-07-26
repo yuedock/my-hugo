@@ -1,4 +1,4 @@
-baseURL = "https://yuedock.render.com"
+baseURL = "https://yuedock.onrender.com/"
 languageCode = "zh-cn"
 title = "乐雁坞"
 theme = "exhil"
