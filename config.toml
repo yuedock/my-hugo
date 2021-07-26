@@ -1,4 +1,55 @@
-baseURL = "https://yuedock.vercel.app/"
+baseURL = "https://yuedock.render.com"
 languageCode = "zh-cn"
-title = "乐雁坞のBlog"
-theme = "ananke"
+title = "乐雁坞"
+theme = "ezhil"
+paginate = 5
+
+copyright = "Copyright © 2021 Yuedock."
+
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "ezhil-demo"
+
+summaryLength = 20
+
+[params]
+	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "auto" # "dark", "auto", "light"
+
+[[menu.main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "文章"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "关于"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "标签"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "仓库"
+icon = "github"
+url = "https://github.com/yuedock"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+[taxonomies]
+   tag = "tags"
