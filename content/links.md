@@ -1,5 +1,5 @@
 ---
-title: "小伙伴们"
+title: "伙伴们"
 date: 2021-06-26
 type: "page"
 ---
@@ -12,4 +12,4 @@ Who are they ?
   [1]: https://www.dffzmxj.com
   [2]: https://www.bu40.com
 
-Tips：一定要坚持做博客哦！
+Tips：一定要坚持下去哦！
