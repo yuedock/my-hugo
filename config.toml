@@ -16,7 +16,7 @@ disqusShortname = "ezhil-demo"
 summaryLength = 20
 
 [params]
-	subtitle = "Clean and minimal personal [blog theme for Hugo](https://github.com/vividvilla/ezhil)"
+	subtitle = "永远不要依照过去计算未来"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "auto" # "dark", "auto", "light"
@@ -47,7 +47,7 @@ icon = "github"
 url = "https://github.com/yuedock"
 
 [[params.social]]
-name = "RSS"
+name = "订阅"
 icon = "rss"
 url = "/index.xml"
 
