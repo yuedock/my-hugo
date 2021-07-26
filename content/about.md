@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于"
 date: 2021-05-19
 type: "page"
 ---
