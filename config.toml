@@ -22,37 +22,37 @@ summaryLength = 20
 	mode = "auto" # "dark", "auto", "light"
 
 [[menu.main]]
-name = "主页"
+name = "起始页"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "文章"
+name = "归档录"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "关于"
+name = "关于我"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "邻居"
+name = "友人帐"
 url = "/links"
 weight = 4
 
 [[menu.main]]
-name = "标签"
+name = "标签云"
 url = "/tags"
 weight = 5
 
 [[params.social]]
-name = "仓库"
+name = "我的仓库"
 icon = "github"
 url = "https://github.com/yuedock"
 
 [[params.social]]
-name = "订阅"
+name = "订阅本站"
 icon = "rss"
 url = "/index.xml"
 
