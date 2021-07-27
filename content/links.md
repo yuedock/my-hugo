@@ -1,6 +1,6 @@
 ---
-title: "伙伴们"
-date: 2021-06-26
+title: "伙伴"
+date: 2021-07-26
 type: "page"
 ---
 
