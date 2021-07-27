@@ -12,4 +12,4 @@ Who are they ?
   [1]: https://www.dffzmxj.com
   [2]: https://www.bu40.com
 
-Tips：一定要坚持下去哦！
+Tips：一定要坚持做博客哦
