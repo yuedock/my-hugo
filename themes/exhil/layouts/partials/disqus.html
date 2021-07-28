@@ -1,10 +1,15 @@
-<div id="disqus_thread"></div>
+<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
 <script>
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://yuedock.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
+    const gitalk = new Gitalk({
+        clientID: 'f3cb82e0ab046be25a9e',
+        clientSecret: 'f62c2c159459af4c6ca279a883b3dcd333ab9630',
+        repo: 'my-hugo',
+        owner: 'yuedock',
+        admin: ['yuedock'],
+        distractionFreeMode: false,
+        id: window.location.pathname
+    })
+    gitalk.render('gitalk-container');
 </script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
