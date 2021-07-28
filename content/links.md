@@ -2,6 +2,7 @@
 title: "伙伴"
 date: 2021-07-26
 type: "page"
+disqus: false
 ---
 
 Who are they ?
