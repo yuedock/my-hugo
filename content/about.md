@@ -2,6 +2,7 @@
 title: "关于"
 date: 2021-05-19
 type: "page"
+disqus: false
 ---
 
 生于 2004年10月 天秤蓝
