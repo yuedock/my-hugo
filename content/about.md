@@ -5,17 +5,18 @@ type: "page"
 disqus: false
 ---
 
-生于 2004年10月 天秤蓝
+本人生于 2004年10月 天秤座
 
-现就读于我市某不知名普通高中
+现就读于我市某不知名二流普通高中
 
-热爱文学阅读和信息技术的文科生一枚
+一枚热爱生活中一切美好事物的文科生
 
-从 2015 年开始担任班级电教至今
+担任数年班级电教委员（人送外号网管）
 
+没事喜欢捣鼓电脑，包括前端和软件等等
 
 **Connect Me:**
 
-E-mail:yuedock@hotmail.com
+Instagram：yuedock
 
-OICQ:2390200842
+E-mail:yuedock@hotmail.com
