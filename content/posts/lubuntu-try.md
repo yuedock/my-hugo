@@ -1,5 +1,5 @@
 ---
-title: '最美不过夕阳红，换装Lubuntu焕发小黑第二春！'
+title: '最美不过夕阳红，上Lubuntu小黑焕发第二春！'
 date: 2021-08-07
 draft: false
 ---
