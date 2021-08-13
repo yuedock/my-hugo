@@ -5,18 +5,18 @@ type: "page"
 disqus: false
 ---
 
-本人生于 2004年10月 天秤座
+本人生于 2004年10月23日
 
-现就读于我市某不知名二流普通高中
+现就读于我市某所不知名中学
 
-一枚热爱生活中一切美好事物的文科生
+一个爱瞎捣鼓计算机网络的文科生
 
-担任数年班级电教委员（人送外号网管）
+混水摸鱼的担任班级电教委员多年
 
-没事喜欢捣鼓电脑，包括前端和软件等等
+开源软件兼网络技术爱好者
 
-**Connect Me:**
+Connect Me:
 
-Instagram：yuedock
+Instagrm:@yuedock
 
-E-mail:yuedock@hotmail.com
+yuedock@hotmail.com
