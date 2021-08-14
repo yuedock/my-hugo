@@ -1,5 +1,5 @@
 ---
-title: '武装 Bodhi 小黑老树开新花'
+title: '武装 Bodhi Linux 旧笔记本开新花'
 date: 2021-08-07
 draft: false
 ---
