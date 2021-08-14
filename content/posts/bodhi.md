@@ -1,12 +1,12 @@
 ---
-title: 'Bodhi Linux 新旧交融的轻量级发行版'
+title: 'Bodhi 新旧交融的轻量级发行版'
 date: 2021-08-07
 draft: false
 ---
 
-Linux 曾被我一度认为是 Dalao 的玩物，它的安装不如像 Windows 那样用 Ghost 自动安装那般简单（回过头来发现其实也不难），生怕不小心格了重要文件，只好远观而不可亵玩焉。不过最近为了给我“步入暮年”的小黑（产于 2008 年的笔记本，运行 Windows10-LTSC 过热卡顿甚至自动重启）找个新窝，便冒着吃席的危险投到了 Linux 的怀抱里。
+Linux 曾被我一度认为是 Dalao 的玩物，它的安装不如像 Windows 那样用 Ghost 自动安装那般简单（回过头来发现其实也不难），生怕不小心格了重要文件，只好远观而不可亵玩焉。不过最近为了给我“步入暮年”的小黑（生于 2008 年的笔记本，运行 Windows10-LTSC 易过热关机）找个新窝，便冒着吃席的危险投到了 Linux 的怀抱里。
 
-经过几天从虚拟机到实机的安装学习，最终从 Dalao 们推荐的几款轻量级 Linux 发行版（之外）找出了最适合自己的菜 Bodhi Linux!（可译为菩提 Linux 哦)
+经过几天从虚拟机到实机的安装学习，最终从 Dalao 们推荐的几款轻量级 Linux 发行版（之外）找出了最适合自己的菜 Bodhi Linux!（菩提 Linux)
 
 ![Desktop](https://s3.jpg.cm/2021/08/14/IcbAHO.jpg)
 
@@ -14,11 +14,13 @@ Linux 曾被我一度认为是 Dalao 的玩物，它的安装不如像 Windows �
 
 （和 MDUI 官网一样间歇性打不开，这很佛性）
 
-同样也可以去项目地址下载：https://sourceforge.net/software/product/Bodhi-Linux/
+同样可以去项目地址下载：
+
+https://sourceforge.net/software/product/Bodhi-Linux/
 
 和使用 GNOME/KDE/MATE/XFCE 等桌面环境的发行版不同，Bodhi Linux 有自己的桌面环境 Moksha（莫克莎），是 Enlightenmnt17 的一个分支，就像 MATE 是 GNOME2 的分支一样。一烧录好 LiveCD 我就迫不及待上机测试了，果不其然它给了我一个惊喜，很快啊，Windows10 来不及闪，我就让 Bodhi Linux 接替了它的位置。
 
-实践是检验真理的唯一标准，我发现 Bodhi Linux 就是最适合小黑和我的菜。
+实践是检验真理的唯一标准，Bodhi Linux 就是最适合小黑的发行版。
 
 若非要我说一个理由，那就是 Moksha 是新旧交融的优秀作品。从设计理念到实机体验，让人感觉真的很赞。与老主人 Enlightenment 不同的是，Moksha 在体贴用户方面做得很不错。一个很有说服力的证据是工作区小部件，它默认被放在桌面上。
 
@@ -42,6 +44,6 @@ Tips：以上都是x64版，有x86版不过貌似停更了
 
 Tips：其实系统还自带更强大的新立得软件包管理器（Synaptic），同样可以在开始菜单中找到。暖心的是，商店自动为我们设置好了国内软件镜像源，比国外源又快又稳定。
 
-小结一下，我认为 Bodhi Linux 是一个“既过时又超前”的轻量级发行版，它的易用性很让我满意。如果你是 Linux 小白，相信 Bodhi Linux 将会是你愉快的初体验（大佬请随意），用上她一周，你有可能会产生一种宾至如归的感觉，这比 Windows 赞多了。
+小结一下，我认为 Bodhi Linux 是一个“既过时又超前”的轻量级发行版，它的易用性很让我满意。如果你是 Linux 小白，相信 Bodhi Linux 将会成为你愉快的初体验（大佬们请随意），用上她一周，或许你会产生一种宾至如归的感觉。
 
-何不试试 Bodhi Linux，让她成为汝人生中的第一个 Linux 发行版！
+何不试试 Bodhi Linux，让她成为你的第一个 Linux 发行版！
