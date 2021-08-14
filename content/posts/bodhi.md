@@ -8,6 +8,8 @@ Linux 曾被我一度认为是 Dalao 的玩物，它的安装不如像 Windows �
 
 经过几天从虚拟机到实机的安装学习，最终从 Dalao 们推荐的几款轻量级 Linux 发行版（之外）找出了最适合自己的菜 Bodhi Linux!（可译为菩提 Linux 哦)
 
+![Desktop](https://s3.jpg.cm/2021/08/14/IcbAHO.jpg)
+
 对了，官网是：https://www.bodhilinux.com
 
 （和 MDUI 官网一样间歇性打不开，这很佛性）
