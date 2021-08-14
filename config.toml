@@ -5,10 +5,10 @@ theme = "hugo-theme-codex"
 title = "Yuedock"
 languageCode = "en-us"
 baseURL = "https://www.yuedock.top/"
-copyright = "Copyleft © {year}"
+copyright = "Copyleft © {year} Yuedock."
 
 # Add your Disqus shortname here.
-# disqusShortname = ""
+  disqusShortname = "yuedock"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "" 
