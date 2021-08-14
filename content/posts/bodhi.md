@@ -1,5 +1,5 @@
 ---
-title: 'Bodhi Linux，新旧交融的发行版'
+title: 'Bodhi Linux 新旧交融的轻量级发行版'
 date: 2021-08-07
 draft: false
 ---
