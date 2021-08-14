@@ -1,5 +1,5 @@
 ---
-title: 'Bodhi Linux 老电脑的第二春'
+title: 'Bodhi Linux 老本也能开新花'
 date: 2021-08-07
 draft: false
 ---
