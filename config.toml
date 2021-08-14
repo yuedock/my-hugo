@@ -57,14 +57,14 @@ copyright = "Copyleft © {year} Yuedock."
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "index"
-  name = "index"
+  identifier = "Index"
+  name = "Index"
   title = "Index"
   url = "/"
 
 [[menu.main]]
-  identifier = "posts"
-  name = "posts"
+  identifier = "Posts"
+  name = "Posts"
   title = "Posts"
   url = "/posts"
 
@@ -75,7 +75,7 @@ copyright = "Copyleft © {year} Yuedock."
   url = "/bff"
 
 [[menu.main]]
-  identifier = "about"
-  name = "about"
+  identifier = "About"
+  name = "About"
   title = "About"
   url = "/about"
