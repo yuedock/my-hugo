@@ -8,10 +8,11 @@ Linux 曾被我一度认为是 Dalao 的玩物，它的安装不如Ghost 那般�
 
 经过几天从虚拟机到实机的安装学习，最终从 Dalao 们推荐的几款轻量级 Linux 发行版（之外）找出了最适合自己的菜 Bodhi Linux!（可译为菩提 Linux)
 
-对了，官网是：https://www.bodhilinux.com（和 MDUI 官网一样间歇性打不开，这很佛性）
+对了，官网是：https://www.bodhilinux.com （和 MDUI 官网一样间歇性打不开，这很佛性）
+
 同样也可以去项目地址下载：https://sourceforge.net/software/product/Bodhi-Linux/
 
-和使用 GNOME/KDE/MATE/XFCE 等桌面的发行版不同，Bodhi Linux 有自己的桌面环境 Moksha（莫克莎），是 Enlightenmnt17 的一个分支，就像 MATE 是 GNOME2 的分支一样。一烧录好 LiveCD 我就迫不及待上机测试了，果不其然它给了我一个惊喜，很快啊，Windows10 来不及闪，我就让 Bodhi Linux 接替了它的位置。
+和使用 GNOME/KDE/MATE/XFCE 等桌面环境的发行版不同，Bodhi Linux 有自己的桌面环境 Moksha（莫克莎），是 Enlightenmnt17 的一个分支，就像 MATE 是 GNOME2 的分支一样。一烧录好 LiveCD 我就迫不及待上机测试了，果不其然它给了我一个惊喜，很快啊，Windows10 来不及闪，我就让 Bodhi Linux 接替了它的位置。
 
 实践是检验真理的唯一标准，我发现 Bodhi Linux 就是最适合小黑和我的菜。
 
