@@ -69,8 +69,8 @@ copyright = "Copyleft © {year} Yuedock."
   url = "/posts"
 
 [[menu.main]]
-  identifier = "bff"
-  name = "bff"
+  identifier = "BFF"
+  name = "BFF"
   title = "BFF"
   url = "/bff"
 
