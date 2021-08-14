@@ -3,7 +3,7 @@ theme = "hugo-theme-codex"
 
 # Override these settings with your own
 title = "Yuedock"
-languageCode = "en-us"
+languageCode = "zh-CN"
 baseURL = "https://www.yuedock.top/"
 copyright = "Copyleft © {year} Yuedock."
 
