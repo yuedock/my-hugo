@@ -1,5 +1,5 @@
 ---
-title: "伙伴"
+title: "BFF"
 date: 2021-07-26
 type: "page"
 disqus: false
