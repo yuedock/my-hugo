@@ -57,9 +57,9 @@ copyright = "Copyleft © {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
+  identifier = "index"
+  name = "index"
+  title = "Index"
   url = "/"
 
 [[menu.main]]
@@ -73,3 +73,9 @@ copyright = "Copyleft © {year}"
   name = "bff"
   title = "BFF"
   url = "/bff"
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/about"
