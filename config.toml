@@ -63,10 +63,10 @@ copyright = "Copyleft © {year}"
   url = "/"
 
 [[menu.main]]
-  identifier = "blog"
-  name = "blog"
-  title = "Blog"
-  url = "/blog"
+  identifier = "posts"
+  name = "posts"
+  title = "Posts"
+  url = "/posts"
 
 [[menu.main]]
   identifier = "bff"
