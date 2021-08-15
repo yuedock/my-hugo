@@ -22,8 +22,8 @@ copyright = "Copyleft © {year} Yuedock."
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   
   email = "mailto:yuedock@hotmail.com"
-  github = "https://github.com/yuedock"
   instagram = "https://instagram.com/yuedock"
+  github = "https://github.com/yuedock"
   # mastodon = "https://mastodon.social/@nickname"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
